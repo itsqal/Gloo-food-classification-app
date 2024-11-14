@@ -12,7 +12,7 @@ st.write("Upload an image or take a picture using your device's camera and get a
 st.header("Upload an Image or Use Your Camera")
 
 # Loading model
-model_path = './model.tflite'
+model_path = './model/modelv2.tflite'
 interpreter = utils.load_model(model_path)
 
 # Taking data
