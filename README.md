@@ -6,6 +6,8 @@ This model can classify three Indonesian Packaged products :
 - Better Biscuit
 - Pocari Sweat
 - YouC1000 500ml
+- Oreo
+- Leminerale mineral water
 
 1. **Setup Environment Anaconda**:
     ```bash
